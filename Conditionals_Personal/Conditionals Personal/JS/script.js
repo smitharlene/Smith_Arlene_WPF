@@ -8,7 +8,7 @@
 //Conditionals Personal Assignment
 
 
-//We are picking up family members from the airport.  I can fit 4 passengers in my SUV,
+// We are picking up family members from the airport.  I can fit 4 passengers in my SUV,
 // if the amount of passengers is more than that I will need to rent a car.
 //Can I pick them up in my car or do I have to rent a bigger car?
 
