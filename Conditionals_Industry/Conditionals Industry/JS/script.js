@@ -7,7 +7,7 @@
 //Conditionals Industry
 
 
-//Banking Industry
+//Banking Industry- Customer relations
 
 //A customer comes in to open an account.  He tells me that he would like either a checking, savings or money market account.
 //Per balance requirements, he will need to keep a certain amount of money in the account.
