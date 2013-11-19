@@ -20,3 +20,15 @@ function calcArea(){
     console.log(area);
 
 }
+
+// Functions Parameters and Arguments
+
+function dogYears(age){ //parameters
+    var dogYears = age * 7;
+    console.log("Sparky is " + dogYears + " years old");
+
+}
+var age1 = 4;
+dogYears(age1);  //argument
+dogYears(5);
+
