@@ -25,26 +25,27 @@ console.log("The circumference of the circle is " + total); //what's going to pr
 
 
 
+
 // Stung
 //Calculate how many bee stings are needed to kill an animal
 
 
 
-var beeStingPerPound = 8.666666667;
+var beeStingPerPound = 8.666666667;  //setting up a variable for the number a bee stings is per pound
 
 
-var total = victimWeight(beeStingPerPound, 80);
+var total = victimWeight(beeStingPerPound, 80);  //This variable equals the function call that's going to be printed in the console
 
 function victimWeight (beeStingPerPound, animalWeight){
 
-    var totalNumbOfBeeStings = beeStingPerPound * animalWeight;
+    var totalNumbOfBeeStings = beeStingPerPound * animalWeight;  // calculating the total # of bee stings
 
-    return totalNumbOfBeeStings;
+    return totalNumbOfBeeStings;  // return value
 
 }
 
 
-console.log("It takes " + total + " bee stings to kill this animal.");
+console.log("It takes " + total + " bee stings to kill this animal."); //what is going to print out in the console.
 
 
 
