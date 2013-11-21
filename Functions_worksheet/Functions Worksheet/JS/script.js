@@ -14,14 +14,14 @@
 
 
 var pie= 3.14;
-var total = calcCircle(pie,10)
+var total = calcCircle(pie,10) //This variable equals the function so it can be printed in the console.
 
-function calcCircle (pie,radius){
-    var circumferenceCircle = (2 * pie * radius);
+function calcCircle (pie,radius){      //normal function
+    var circumferenceCircle = (2 * pie * radius);  //calculating the circumference of a circle
 
-    return circumferenceCircle;
+    return circumferenceCircle;   //return value
 }
-console.log("The circumference of the circle is " + total);
+console.log("The circumference of the circle is " + total); //what's going to print out in the console
 
 
 
