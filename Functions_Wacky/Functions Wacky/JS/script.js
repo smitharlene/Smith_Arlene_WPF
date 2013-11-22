@@ -28,12 +28,12 @@ var gamePoints = 14;  //score per game
 
 //For this part of the problem I will use an Anonymous Function
 
-var calcNumberOfGamesLeft = function(season, played){
-    var numberOfGamesLeft = season - played;
+var calcNumberOfGamesLeft = function(season, played){     //setting up my function with my parameters.  Season is for the amount of games per season.  Played is for the number of games they have already played.
+    var numberOfGamesLeft = season - played; //calculation
 
-    return numberOfGamesLeft;
+    return numberOfGamesLeft;  //what's giving the info
 
 }
-var gamesLeft = calcNumberOfGamesLeft (16,10);
+var gamesLeft = calcNumberOfGamesLeft (16,10);  //my function call with my arguments which is providing the numbers for the calculation
 
-console.log(gamesLeft);
+console.log(gamesLeft);  //printing out in the console the amount of number of games left in the season
