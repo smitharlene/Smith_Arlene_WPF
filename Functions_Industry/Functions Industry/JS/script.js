@@ -20,10 +20,10 @@
 
 //Return: the average calls per month
 
-//Result for the console: The average number of calls per month are X.
+//Result for the console: "The average number of calls per month are X."
 
 
-var total = calcAverageMonthlyCalls(60, 5, 4);  //variable assigned to my function call that contains my arguments
+var total = calcAverageMonthlyCalls(60, 5, 4);  //variable assigned to my function call that contains my arguments.
 
 function calcAverageMonthlyCalls (dailycalls , daysoftheweek, numberofweeks){  //my function with my 3 pieces of information (parameters)
     var averageMonthlyCalls = dailycalls * daysoftheweek * numberofweeks;  //calculating my average monthly calls.
@@ -31,7 +31,7 @@ function calcAverageMonthlyCalls (dailycalls , daysoftheweek, numberofweeks){  /
     return averageMonthlyCalls;  //what is giving out my result
 
 }
-console.log("The average number of calls I take a month are " + total + " calls.");  //printing out to the console my statement with my final total.
+console.log("The average number of calls I take a month are " + total + " calls.");  //printing out to the console my statement with my final total calculation.
 
 
 
