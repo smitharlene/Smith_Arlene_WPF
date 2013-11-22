@@ -8,8 +8,13 @@
 // Functions Personal
 
 
+//I was invited to a dinner and a comedy show.  I have a budget for the night expenses.  I could only spend $30 for the comedy show tickets.
+    //I was also given a $5 off coupon that I can apply to the price of the tickets. If the tickets are more than $30,
+    // I will need to save more money.
 
-var price = 35;
+
+
+var price = 35;   
 var discount = 5;
 
 
