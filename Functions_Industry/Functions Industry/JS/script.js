@@ -5,11 +5,11 @@
 
 //Arlene Smith
 //November 21, 2013
-    //Functions Industry
+//Functions Industry Project
 
 
 
-//Customer Service- Inbound calls
+//Customer Service- Inbound Calls
 
 //I work at a customer service call center and I need to calculate my average calls per month with the information I have.
 //Which is I take 60 calls a day, I work 5 days of the week and I work 4 weeks a month.
