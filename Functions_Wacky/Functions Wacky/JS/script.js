@@ -11,8 +11,13 @@
 
 //If the Texans football team wins are greater than 7 games or score 30 points a game, they keep their current coach.  If not, they will get a new coach.
 
-var texansWins = 10;
-var gamePoints = 15;
+var texansWins = 10;  //games won
+var gamePoints = 14;  //score per game
+
+
+//for this project I'm using the ternary condition
+
+//If the Texans wins are greater than 7 or if the game points are greater or equal to 30, they get to keep their coach.  If not, they will need a new coach.
 
 (texansWins > 7 || gamePoints >= 30)? console.log("The Texans can keep their current coach!"): console.log("The Texans will need to get a new coach!");
 
