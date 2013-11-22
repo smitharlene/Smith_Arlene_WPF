@@ -36,4 +36,4 @@ var calcNumberOfGamesLeft = function(season, played){     //setting up my functi
 }
 var gamesLeft = calcNumberOfGamesLeft (16,10);  //my function call with my arguments which is providing the numbers for the calculation
 
-console.log(gamesLeft);  //printing out in the console the amount of number of games left in the season
+console.log(gamesLeft);  //printing out in the console the number of games left in the season
