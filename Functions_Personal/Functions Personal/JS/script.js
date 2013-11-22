@@ -37,7 +37,7 @@ var budgetTotal = calcNightExpenses ( 30,50);  //This variable is use to be able
 
 function calcNightExpenses (ticket, dinner){ //This contains my function name and parameters
 
-    var expenses = ticket + dinner; // calculating my expense
+    var expenses = ticket + dinner; // calculating my expenses
 
     return expenses; //this is what gives the information out
 }
